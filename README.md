@@ -4,9 +4,9 @@ This repo contains my version of a wiki for the Vince Gilligan series Breaking B
 It serves as a place for me to build & experiment with HTML/CSS/vanilla JS. 
 
 ## Completed
-- Implemented basic HTML structure
-- Bootstrap styling 
-- Basic async JS for HTTP requests using the Fetch API
+- Implemented basic HTML structure.
+- Bootstrap styling. 
+- Basic async JS for HTTP requests using the Fetch API.
 
 
 ## ToDo 
